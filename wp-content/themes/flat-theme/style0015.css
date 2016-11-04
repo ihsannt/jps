@@ -42,6 +42,9 @@ body > section,
 .center {
   text-align: center;
 }
+.right {
+  text-align: right;
+}
 
 img {
   display: block;
@@ -636,7 +639,7 @@ ul {
 }
 #main-slider .carousel .boxed {
   padding: 10px 15px;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.3);
   display: inline-block;
 }
 #main-slider .carousel .item {
